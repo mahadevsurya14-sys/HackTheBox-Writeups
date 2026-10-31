@@ -11,6 +11,10 @@
 - Directory Hiding Detection
 - getdents64 System Call
 
+- ## HTB Achievement
+
+[View Suspicious Threat Achievement](https://labs.hackthebox.com/achievement/challenge/4061907/746)
+
 ## Investigation Summary
 Investigated a suspicious Linux shared library loaded through `/etc/ld.so.preload`.
 
