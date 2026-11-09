@@ -1,0 +1,44 @@
+# Hack The Box – Fishy HTTP
+
+<escape>##</escape> Challenge Information
+
+- **Platform:** Hack The Box
+- **Challenge:** Fishy HTTP
+- **Category:** Network Traffic Analysis
+- **Difficulty:** Challenge
+- **Status:** Completed
+- **Date:** 09 November 2026
+- **XP Earned:** 260
+
+<escape>##</escape> Tools Used
+
+- Wireshark
+- Tshark
+- Python
+- ILSpy
+- Kali Linux
+
+<escape>##</escape> Investigation
+
+- Inspected the provided PCAPNG network capture.
+- Analyzed TCP streams and HTTP communication.
+- Investigated suspicious traffic patterns.
+- Examined application files using reverse engineering.
+- Used Python scripting to support the investigation.
+- Successfully completed the challenge.
+
+<escape>##</escape> Key Learnings
+
+- HTTP traffic analysis
+- TCP stream investigation
+- PCAPNG file analysis
+- .NET application reverse engineering
+- Python scripting
+- Practical troubleshooting and problem-solving
+
+<escape>##</escape> Result
+
+**Successfully Completed – 260 XP**
+
+*Documenting my hands-on cybersecurity learning journey through Hack The Box.*
+
